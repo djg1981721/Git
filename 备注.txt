@@ -1,2 +1,0 @@
-user.name  Dongjianguo
-user.email  djg1981721@gmail.com
